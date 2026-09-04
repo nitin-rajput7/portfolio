@@ -1,0 +1,74 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 4347 >>
+stream
+0.09 0.20 0.30 rg BT /F2 23 Tf 1 0 0 1 52 795 Tm (YOUR NAME) Tj ET
+0.09 0.49 0.54 rg BT /F2 10 Tf 1 0 0 1 52 774 Tm (MERN STACK DEVELOPER) Tj ET
+0.29 0.34 0.40 rg BT /F1 8.5 Tf 1 0 0 1 52 758 Tm (City, State  |  +91 XXXXX XXXXX  |  your.email@example.com  |  linkedin.com/in/your-profile) Tj ET
+0.09 0.20 0.30 rg BT /F2 10.5 Tf 1 0 0 1 52 726 Tm (PROFESSIONAL SUMMARY) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 708 Tm (B.Tech graduate and MERN Stack Developer with 6 months of web-development internship experience. Skilled in) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 695 Tm (building responsive full-stack web applications using MongoDB, Express.js, React.js, and Node.js. Proficient) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 682 Tm (in HTML, CSS, JavaScript, React Hooks, React Router, REST APIs, database integration, routing, and HTTP) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 669 Tm (methods.) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 651 Tm (Developed projects including LUXE, an e-commerce web application, an admin dashboard, calculator, and to-do) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 638 Tm (list applications. Familiar with component-based architecture, API integration, state-management concepts,) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 625 Tm (responsive UI development, MongoDB data modeling, and backend development with Node.js and Express.js.) Tj ET
+0.15 0.22 0.28 rg BT /F1 9.1 Tf 1 0 0 1 52 612 Tm (Comfortable with Git/GitHub, npm, Vite, and AI-assisted development tools.) Tj ET
+0.09 0.20 0.30 rg BT /F2 10.5 Tf 1 0 0 1 52 592 Tm (TECHNICAL SKILLS) Tj ET
+0.15 0.22 0.28 rg BT /F2 8.7 Tf 1 0 0 1 52 574 Tm (Frontend) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.7 Tf 1 0 0 1 128 574 Tm (HTML5, CSS3, JavaScript, React.js, React Hooks, React Router, Responsive UI) Tj ET
+0.15 0.22 0.28 rg BT /F2 8.7 Tf 1 0 0 1 52 560 Tm (Backend) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.7 Tf 1 0 0 1 128 560 Tm (Node.js, Express.js, REST APIs, HTTP Methods, Routing) Tj ET
+0.15 0.22 0.28 rg BT /F2 8.7 Tf 1 0 0 1 52 546 Tm (Database) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.7 Tf 1 0 0 1 128 546 Tm (MongoDB, Database Integration, Data Modeling) Tj ET
+0.15 0.22 0.28 rg BT /F2 8.7 Tf 1 0 0 1 52 532 Tm (Tools) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.7 Tf 1 0 0 1 128 532 Tm (Git, GitHub, npm, Vite, Cursor, AI-assisted development tools) Tj ET
+0.09 0.20 0.30 rg BT /F2 10.5 Tf 1 0 0 1 52 515 Tm (PROJECTS) Tj ET
+0.15 0.22 0.28 rg BT /F2 9.2 Tf 1 0 0 1 52 497 Tm (LUXE - E-commerce Web Application) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 484 Tm (Built a responsive e-commerce application using MERN stack concepts. Implemented reusable React components,) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 472 Tm (client-side routing, responsive interfaces, and API/data integration.) Tj ET
+0.15 0.22 0.28 rg BT /F2 9.2 Tf 1 0 0 1 52 456 Tm (Admin Dashboard) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 443 Tm (Developed a dashboard interface for organizing and presenting application data, with reusable UI components and) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 431 Tm (responsive layouts.) Tj ET
+0.15 0.22 0.28 rg BT /F2 9.2 Tf 1 0 0 1 52 415 Tm (Calculator and To-Do List Applications) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 402 Tm (Created JavaScript and React applications to practice state handling, user interactions, component design, and) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 390 Tm (responsive UI development.) Tj ET
+0.09 0.20 0.30 rg BT /F2 10.5 Tf 1 0 0 1 52 372 Tm (INTERNSHIP EXPERIENCE) Tj ET
+0.15 0.22 0.28 rg BT /F2 9.2 Tf 1 0 0 1 52 354 Tm (Web Development Intern  |  Company Name  |  Month Year - Month Year) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 341 Tm (Contributed to frontend and backend web development tasks. Worked with React.js, REST APIs, database integration,) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 329 Tm (responsive layouts, and Git/GitHub-based development workflows.) Tj ET
+0.09 0.20 0.30 rg BT /F2 10.5 Tf 1 0 0 1 52 311 Tm (EDUCATION) Tj ET
+0.15 0.22 0.28 rg BT /F2 9.2 Tf 1 0 0 1 52 293 Tm (Bachelor of Technology \(B.Tech\)  |  College / University Name  |  Graduation Year) Tj ET
+0.15 0.22 0.28 rg BT /F1 8.8 Tf 1 0 0 1 52 280 Tm (Relevant focus: Web Development, Software Engineering, Database Management) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000004655 00000 n 
+0000004725 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4800
+%%EOF

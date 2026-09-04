@@ -1,0 +1,2 @@
+export default function Resume() { return <section className="resume-section" id="resume"><div><p className="section-label">RESUME</p><h2>Want a closer look?</h2><p>Download my resume for a concise overview of my skills, internship experience, education, and projects.</p></div><a className="button button--light" href="/resume/Nitin-Rajput-Resume.pdf" download>Download Resume <b>↓</b></a></section>; }
+

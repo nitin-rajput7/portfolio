@@ -5,12 +5,12 @@ export default function Hero() {
       <div className="hero-copy reveal">
         <p className="eyebrow">AVAILABLE FOR OPPORTUNITIES</p>
         <h1>
-          Hi, I'm <span>Nitin Tanwar</span>
+          Hi, I'm <span>{data.personal.name}</span>
         </h1>
         <h2>{data.personal.title}</h2>
         <p className="hero-text">
-          I build modern, responsive and user-friendly web applications using
-          React.js and modern web technologies.
+          I build modern, responsive and full-stack web applications using
+          MongoDB, Express.js, React.js, and Node.js.
         </p>
         <div className="hero-actions">
           <a className="button button--primary" href="#projects">
@@ -40,9 +40,8 @@ export default function Hero() {
           </div>
           <code>
             <em>const</em> developer = {"{"}
-            <br /> &nbsp;name: <strong>'Nitin Tanwar'</strong>,<br />{" "}
-            &nbsp;focus: <strong>'MERN'</strong>,<br /> &nbsp;build: () =&gt;{" "}
-            <mark>impact</mark>
+            <br /> &nbsp;name: <strong>'{data.personal.name}'</strong>,<br />{" "}
+            &nbsp;stack: <strong>['MongoDB', 'Express', 'React', 'Node']</strong>,<br /> &nbsp;status: <strong>'Open to Work'</strong>
             <br />
             {"}"};
           </code>

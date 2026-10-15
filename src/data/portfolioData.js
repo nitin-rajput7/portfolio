@@ -56,6 +56,22 @@ const portfolioData = {
   },
   projects: [
     {
+      name: "MERN Stack Portfolio & API Engine",
+      type: "Full Stack Application",
+      tags: ["MongoDB", "Express.js", "React.js", "Node.js", "REST API"],
+      kind: "mern",
+      category: "mern",
+      description:
+        "A complete full-stack MERN portfolio platform with an Express REST API, MongoDB database persistence for inquiries, automated seeding, and real-time database viewer.",
+      points: [
+        "RESTful API with Express & Node.js",
+        "MongoDB & Mongoose data modeling",
+        "Interactive React frontend with live database inquiry feed",
+      ],
+      githubUrl: "https://github.com/nitin-rajput7/portfolio",
+      liveUrl: "http://localhost:5173",
+    },
+    {
       name: "LUXE",
       type: "E-commerce Website",
       tags: ["React.js", "React Router", "JavaScript", "HTML", "CSS"],
